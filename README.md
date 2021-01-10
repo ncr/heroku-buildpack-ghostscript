@@ -5,7 +5,7 @@ Installs Ghostscript 9.52 on Heroku
 ## Install
 
     $ cd /path/to/your-app
-    $ heroku buildpacks:add https://github.com/sdglhm/heroku-buildpack-ghostscript.git
+    $ heroku buildpacks:add https://github.com/ncr/heroku-buildpack-ghostscript.git
 
     # Push changes to deploy
     $ git push
